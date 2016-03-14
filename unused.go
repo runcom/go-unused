@@ -1,4 +1,6 @@
-package unused // import "honnef.co/go/unused"
+// +build go1.5
+
+package unused
 
 import (
 	"fmt"

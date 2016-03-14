@@ -8,7 +8,7 @@ import (
 	"os"
 	"sort"
 
-	"honnef.co/go/unused"
+	"github.com/runcom/go-unused"
 
 	"github.com/kisielk/gotool"
 )
